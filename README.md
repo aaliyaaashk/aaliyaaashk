@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 💫 This is Aaliya Shaikh
 🔭 I’m currently working on Cloud Computing withAWS<br>👯 I’m looking to collaborate on Web development projects<br>🌱 I’m currently learning Python & R<br>💬 Ask me about Web Development, Data Analytics & AI tools<br>⚡ Fun fact Netflix is a devoted follower of data analysis
 
 
